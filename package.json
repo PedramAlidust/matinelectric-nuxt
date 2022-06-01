@@ -1,0 +1,21 @@
+{
+  "name": "Matinelectric - shop",
+  "version": "1.0.0",
+  "description": "this website is a e-commerce shop",
+  "author": "Pedram Alidoust",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 'localhost' --port '3002'",
+    "build": "nuxt build",
+    "start": "nuxt start --hostname 'localhost' --port '3002'",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "nuxt": "^1.0.0",
+    "woocommerce-api": "^1.5.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
