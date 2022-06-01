@@ -1,6 +1,6 @@
 # nuxt-project
 
-> this application is nuxtjs universal mode whith ssr feature, i also used axios for bootstrap5 framework.
+> this application is nuxtjs universal mode whith ssr feature, i also used axios and bootstrap5 framework.
 
 # project backend
 
